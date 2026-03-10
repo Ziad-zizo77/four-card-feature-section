@@ -94,6 +94,7 @@ body {
   font-weight: 600;
 }
 .boxes .box p {
+  font-size: clamp(1rem, 2.5vw, 1.1rem);
   color: var(--Grey400);
   margin: 1rem 0 2rem;
   line-height: 1.5;
